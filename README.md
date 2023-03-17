@@ -1,1 +1,1 @@
-# rockpaperscisors
+# rock paper scisors Mini Project
